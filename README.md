@@ -1,2 +1,2 @@
 # PersonalWebsite
-This is just a personal project I made, so feel free to use it and give me some suggestion on how to make it better. Thanks!
+This is just a personal project I made, so any comment or suggestion to improve is hugely welcome. Thanks!
